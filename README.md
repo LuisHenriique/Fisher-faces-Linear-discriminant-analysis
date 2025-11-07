@@ -5,7 +5,7 @@
 Este projeto é um trabalho final para a disciplina de Álgebra Linear que implementa o algoritmo de **Análise Discriminante Linear (LDA)**, também conhecido como método Fisherfaces, para reconhecimento facial.
 
 O objetivo é demonstrar "manualmente" (usando NumPy) como reduzir a dimensionalidade de um conjunto de dados de imagens (o Olivetti Faces Dataset) de 4096 dimensões (pixels) para apenas 39, mantendo a informação que *maximiza a separabilidade* entre as diferentes classes (pessoas).
-
+![Imagem dos rostos presentes no dataset](img.png)
 ## O que este projeto faz?
 
 O notebook `main.ipynb` executa os seguintes passos:
